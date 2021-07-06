@@ -15,6 +15,10 @@
 # docker build -t opencord/kafka-topic-exporter:latest .
 # docker build -t 10.128.22.1:30500/opencord/kafka-topic-exporter:latest .
 
+
+# Changes done from b1 branch
+
+
 FROM golang:1.14-stretch as builder
 RUN mkdir -p /go/src/gerrit.opencord.org/kafka-topic-exporter
 WORKDIR /go/src/gerrit.opencord.org/kafka-topic-exporter
