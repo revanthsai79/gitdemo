@@ -6,3 +6,4 @@ Till now we were discussing about predefined(called as Builtins)
 How to know, How many builtin classes/functions/variables are avaiable
 """
 print('Hello trigger')
+print('Second trigger')
