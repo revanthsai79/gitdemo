@@ -5,4 +5,4 @@ Till now we were discussing about predefined(called as Builtins)
 - variables also
 How to know, How many builtin classes/functions/variables are avaiable
 """
-print(dir(__builtins__))
+print('Hello trigger')
